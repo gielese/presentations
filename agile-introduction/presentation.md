@@ -1,7 +1,7 @@
 # Agile introduction
 
 
-<| 
+<|
 
 ## What is Agile?
 

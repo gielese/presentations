@@ -10,4 +10,4 @@ Note:
 
 |>
 
-![Agile manifesto](img/agile-manifesto.png)
+<img src="img/agile-manifesto.png" height="600"/>

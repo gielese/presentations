@@ -1,7 +1,13 @@
-# Agile introduciton
+# Agile introduction
 
-This is a test
+
+<| 
+
+## What is Agile?
+
+Note:
+- A set of values and principles that support an iterative and incremental approach.
 
 |>
 
-## Test ok?
+![Agile manifesto](img/agile-manifesto.png)

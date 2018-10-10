@@ -2,8 +2,8 @@
   "name": "reveal.js",
   "version": "3.7.0",
   "main": [
-    "js/reveal.js",
-    "css/reveal.css"
+    "revealjs/js/reveal.js",
+    "revealjs/css/reveal.css"
   ],
   "homepage": "http://revealjs.com",
   "license": "MIT",

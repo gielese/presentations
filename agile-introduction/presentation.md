@@ -104,3 +104,47 @@ Invest doesn't mean should we do it, but does it apply to the following rules
 
 <|
 
+## Estimation and planning
+
+|>
+
+<img src="img/planning-poker.png" />
+
+|>
+
+<img src="img/cone-of-uncertainty.png" style="background:white;" />
+
+|>
+
+<img src="img/iterations.png" style="background:white;" />
+
+|>
+
+<img src="img/agile-scrum-burn-down-chart.jpg" height="600" />
+
+|>
+
+<img src="img/scope-in-project.jpg" />
+
+<|
+
+## Information radiator
+
+|>
+
+<img src="img/information-radiator.png" />
+
+<|
+
+## Keith's prime directive
+“Regardless of what we discover, we understand and truly believe that
+everyone did the best job they could, given what they knew at the time, their
+skills and abilities, the resources available, and the situation at hand.”
+
+<|
+
+## Questions?
+
+<|
+
+## Feedback

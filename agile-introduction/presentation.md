@@ -128,6 +128,18 @@ Invest doesn't mean should we do it, but does it apply to the following rules
 
 <|
 
+## Tools
+
+|>
+
+## Scrum board
+
+|>
+
+<img src="img/basic-task-board.png" />
+
+|>
+
 ## Information radiator
 
 |>
@@ -148,3 +160,7 @@ skills and abilities, the resources available, and the situation at hand.”
 <|
 
 ## Feedback
+
+<|
+
+<img src="img/agile_one_more_time.jpg" />

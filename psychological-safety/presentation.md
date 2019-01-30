@@ -35,19 +35,19 @@ status or career.
 
 |>
 
-## I am able to bring up problems and tough issues.
+## I am able to bring up problems and tough issues
 
 <img src="img/thumbs-up-thumbs-down.jpg" height="400" />
 
 |>
 
-## Risk taking is appreciated in Kunlabora
+## Risk taking is appreciated within Kunlabora
 
 <img src="img/thumbs-up-thumbs-down.jpg" height="400" />
 
 |>
 
-## It is difficult tot ask for help
+## It is difficult to ask for help
 
 <img src="img/thumbs-up-thumbs-down.jpg" height="400" />
 

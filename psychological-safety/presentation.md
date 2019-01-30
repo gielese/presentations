@@ -74,3 +74,9 @@ status or career.
 ## After an "Agile boomerang" I regret I suggested the idea
 
 <img src="img/thumbs-up-thumbs-down.jpg" height="400" />
+
+|>
+
+## I believe everyone was honest during this exercise
+
+<img src="img/thumbs-up-thumbs-down.jpg" height="400" />
